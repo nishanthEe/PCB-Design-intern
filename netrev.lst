@@ -1,0 +1,77 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : Mark1.brd                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Sep 18 15:18:28 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'D:/Nishanth E/testlayout/board/Netlish';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'D:/Nishanth E/testlayout/board/Mark1.brd';
+NEW_BOARD_NAME 'D:/Nishanth E/testlayout/board/Mark1.brd';
+
+CmdLine: netrev -$ -i D:/Nishanth E/testlayout/board/Netlish -y 1 D:/Nishanth E/testlayout/board/#Taaaaad20384.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read D:/Nishanth E/testlayout/board/Netlish/pstchip.dat 
+   Finished reading D:/Nishanth E/testlayout/board/Netlish/pstchip.dat (00:00:00.06)
+Starting to read D:/Nishanth E/testlayout/board/Netlish/pstxprt.dat 
+   Finished reading D:/Nishanth E/testlayout/board/Netlish/pstxprt.dat (00:00:00.00)
+Starting to read D:/Nishanth E/testlayout/board/Netlish/pstxnet.dat 
+   Finished reading D:/Nishanth E/testlayout/board/Netlish/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  D:/NISHANTH E/TESTLAYOUT/BOARD/FOOTPRINT/ 
+
+PADPATH =  D:/NISHANTH E/TESTLAYOUT/BOARD/FOOTPRINT/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Sep 18 15:18:28 2026
+   DESIGN NAME : 'DESIGN1'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:40
+elapsed time  0:00:01
+

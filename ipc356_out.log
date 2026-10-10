@@ -1,0 +1,59 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 17.4S032                                      )
+(    Date/Time        : Mon Oct  5 12:04:00 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String DIODE0P70X0P70MM_SMD_N exceeds record length on line 54 at column 4
+Warning: String DIODE0P85X0P85MM_SMD_N exceeds record length on line 57 at column 4
+Warning: Found a mechanical pin at location (2805.938 1518.444) with no drill - skipping.
+Warning: Found a mechanical pin at location (2805.938 1492.853) with no drill - skipping.
+Warning: Found a mechanical pin at location (2805.938 1467.263) with no drill - skipping.
+Warning: Found a mechanical pin at location (2805.938 1441.672) with no drill - skipping.
+Warning: Found a mechanical pin at location (2577.592 1416.082) with no drill - skipping.
+Warning: Found a mechanical pin at location (2805.938 1416.082) with no drill - skipping.
+Warning: Found a mechanical pin at location (2577.592 1390.491) with no drill - skipping.
+Warning: Found a mechanical pin at location (2805.938 1390.491) with no drill - skipping.
+Warning: Found a mechanical pin at location (2577.592 1364.901) with no drill - skipping.
+Warning: Found a mechanical pin at location (2805.938 1364.901) with no drill - skipping.
+Warning: Found a mechanical pin at location (2577.592 1339.310) with no drill - skipping.
+Warning: Found a mechanical pin at location (2805.938 1339.310) with no drill - skipping.
+Warning: Found a mechanical pin at location (2577.592 1441.672) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1854.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1804.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (808.308 1754.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1754.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (808.308 1704.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1704.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (808.308 1654.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1654.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (808.308 1604.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1604.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (808.308 1554.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1554.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (808.308 1504.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1022.875 1504.702) with no drill - skipping.
+Warning: Found a mechanical pin at location (1262.951 1548.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1548.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1498.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1448.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1262.951 1398.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1398.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1262.951 1348.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1348.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1262.951 1298.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1298.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1262.951 1248.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1248.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1262.951 1198.251) with no drill - skipping.
+Warning: Found a mechanical pin at location (1471.613 1198.251) with no drill - skipping.
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:    43
